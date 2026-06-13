@@ -1,0 +1,25 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "ce site est un site vitrine de restauration Quai Antique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob7salih/git-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jacob7salih/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/Jacob7salih/git-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1"
+  }
+}
